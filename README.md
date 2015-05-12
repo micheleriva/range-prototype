@@ -30,7 +30,7 @@ require('range-prototype')
 
 **For old browsers**
 ```html
-<script src="https://cdn.jsdelivr.net/npm/range-prototype@0.0.2/es5.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/range-prototype@0.0.1/es5.js"></script>
 
 <script>
 [...5] // => [ 0, 1, 2, 3, 4 ]
