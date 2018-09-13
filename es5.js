@@ -1,0 +1,1 @@
+"use strict";Number.prototype[Symbol.iterator]=regeneratorRuntime.mark(function a(){var b;return regeneratorRuntime.wrap(function(d){for(;;)switch(d.prev=d.next){case 0:b=0;case 1:if(!(b<this)){d.next=7;break}return d.next=4,b;case 4:++b,d.next=1;break;case 7:case"end":return d.stop();}},a,this)});

@@ -1,0 +1,15 @@
+{
+  "name": "range-prototype",
+  "version": "0.0.1",
+  "description": "Extend your JavaScript `Number` type with a **100 bytes** polyfill",
+  "main": "index.js",
+  "author": "Michele Riva <master@micheleriva.it>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
